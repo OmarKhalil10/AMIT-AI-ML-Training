@@ -1,17 +1,17 @@
 # First Python Assignment
-<p>This Notebook provides a knowledge test where we covered some problems in 3 different categories including
+<p>This Notebook provides a knowledge test where we covered some problems in 3 different categories including:
 <br/>
 <pre>
-Python Strings
+1- Python Strings
 </pre>
 <pre>
-Python Lists
+2- Python Lists
 </pre>
 <pre>
-Python Dictionaries
+3- Python Dictionaries
 </pre>
 <pre>
-Python program to swap two variables
+4- Python program to swap two variables
 </pre>
 
 ## Thanks
