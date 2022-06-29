@@ -1,5 +1,5 @@
 # First Python Assignment
-<p>This Notebook provides a knowledge test where we covered some problems in 3 different categories including:
+<p>This Notebook provides a knowledge test where we covered some problems in different categories including:
 <br/>
 <pre>
 1- Python Strings
