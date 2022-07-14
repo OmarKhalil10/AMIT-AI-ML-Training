@@ -56,7 +56,7 @@ Fuel Consumption Comb mpg = The combined fuel consumption in both city and highw
 ## You can find the data on Kaggle by visiting the link below
 
 <pre>
-<a href="https://www.kaggle.com/code/omarkhalil10/vehicles-fuel-consumption-and-co2-emissions/data" target="_blank">href="https://www.kaggle.com/code/omarkhalil10/vehicles-fuel-consumption-and-co2-emissions/data"</a>
+<a href="https://www.kaggle.com/code/omarkhalil10/vehicles-fuel-consumption-and-co2-emissions/data" target="_blank">https://www.kaggle.com/code/omarkhalil10/vehicles-fuel-consumption-and-co2-emissions/data</a>
 </pre>
 
 ## And for the Notebook please visit this link! 
