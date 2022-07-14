@@ -2,7 +2,7 @@
 ## This project is about vehicles fuel consumption and co2 emissions
 <br/>
 <p> Dataset Description:
-This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. There are total 1067 rows and 12 columns. the data can be described as follows:
+<p>This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. There are total 1067 rows and 12 columns. the data can be described as follows:
 <pre>
 Transmission:
 A = Automatic
@@ -54,14 +54,12 @@ Fuel Consumption Comb mpg = The combined fuel consumption in both city and highw
 </pre>
 
 ## You can find the data on Kaggle by visiting the link below
-<br>
 
 <pre>
 https://www.kaggle.com/code/omarkhalil10/vehicles-fuel-consumption-and-co2-emissions/data
 </pre>
 
 ## And for the Notebook please visit the link! 
-<br>
 
 <pre>
 https://www.kaggle.com/code/omarkhalil10/vehicles-fuel-consumption-and-co2-emissions/notebook
